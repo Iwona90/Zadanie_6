@@ -1,2 +1,2 @@
-Plik testowy reb1
 Zmiana na branchu master
+Dodanie nowej zawartosci
